@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\fierc\\documents\\unreal projects\\homework1\\intermediate\\build\\win64\\unrealeditor\\inc\\homework1\\uht\\homework1gamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\fierc\\documents\\unreal projects\\homework1\\intermediate\\build\\win64\\x64\\homework1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\fierc\\documents\\unreal projects\\homework1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\homework1\\definitions.homework1.h",
+            "c:\\users\\fierc\\documents\\unreal projects\\homework1\\source\\homework1\\homework1gamemode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\fierc\\documents\\unreal projects\\homework1\\intermediate\\build\\win64\\unrealeditor\\inc\\homework1\\uht\\homework1gamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

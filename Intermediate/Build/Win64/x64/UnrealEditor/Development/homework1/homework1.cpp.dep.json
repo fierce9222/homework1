@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\fierc\\documents\\unreal projects\\homework1\\source\\homework1\\homework1.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\fierc\\documents\\unreal projects\\homework1\\intermediate\\build\\win64\\x64\\homework1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\fierc\\documents\\unreal projects\\homework1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\homework1\\definitions.homework1.h",
+            "c:\\users\\fierc\\documents\\unreal projects\\homework1\\source\\homework1\\homework1.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
